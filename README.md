@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Julen
 
-<!--
-**ostervaion/ostervaion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 42 Urduliz Bizkaia student and Backend Developer focused on building scalable, efficient, and robust server-side architectures. I enjoy solving and designing solutions for complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+
+* **Languages:** C, C++, C#, Java, JavaScript, Apex
+* **Databases:** SQL, SOQL, MySQL
+* **Frameworks and platforms:** Salesforce (Apex, LWC), Unity, Unreal Engine, Linux
+* **Tools:** Git, GitHub, debugger (GDB), docker, valgrind, Visual Studio Code, vim, make
+* **Methodologies:** Scrum, trabajo ágil
+
+  
+---
+
+### Current Focus
+
+*  **I’m currently working on:** Deepening my backend architecture skills.
+*  **I’m currently learning:** Modern and old web development frameworks and microservice deployment strategies.
+*  **Looking to collaborate on:** Open-source backend utilities, Java/C++/C projects.
